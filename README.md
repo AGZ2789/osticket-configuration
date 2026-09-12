@@ -19,7 +19,7 @@ This is Part 2 of a three-part osTicket help desk project.
 - Remote Desktop Protocol (RDP)
 - osTicket v1.15.8
 
-<br><br>
+<br>
 
 ## Role Configuration
 
