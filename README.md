@@ -57,9 +57,11 @@ Help desk agents were created and assigned to their appropriate departments. Jan
 
 <img width="961" height="445" alt="Snipaste_2024-05-17_21-21-25" src="https://github.com/user-attachments/assets/d33718db-633b-48b9-b848-0f1b8a7e20aa" />
 
-<br><br>
+---
 
 End users were also added to the user directory to support ticket creation and lifecycle testing.
+
+---
 
 <img width="960" height="430" alt="Snipaste_2024-05-17_21-23-13" src="https://github.com/user-attachments/assets/372a1995-5700-4a12-a6e8-80852a0f4f7e" />
 
@@ -74,9 +76,11 @@ SEV-A was configured with a 1-hour grace period and a 24/7 schedule.
 
 <img width="1765" height="1360" alt="Snipaste_2024-05-17_21-34-11" src="https://github.com/user-attachments/assets/20545c5c-a633-45d1-8766-a579bb5ab9e3" />
 
-<br><br>
+---
 
 Additional policies included SEV-B with a 4-hour grace period and SEV-C with an 8-hour grace period using a business-hours schedule.
+
+---
 
 <img width="958" height="1322" alt="Snipaste_2024-05-17_21-42-26" src="https://github.com/user-attachments/assets/a96cf594-f20b-4abb-aa78-ccdad367ff00" />
 
